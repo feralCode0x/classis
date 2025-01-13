@@ -1,4 +1,4 @@
-# Deployed proyect on:
+# Deployed project
 
 https://classisfoto.com 
 
