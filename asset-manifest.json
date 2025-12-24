@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/classis.git/static/css/main.b9ed3a09.css",
-    "main.js": "/classis.git/static/js/main.2ca7a64d.js",
-    "static/media/ethereum-eth-logo.png": "/classis.git/static/media/ethereum-eth-logo.a85b6de0dc4a013ae2f8.png",
-    "static/media/optimism-ethereum-op-logo.png": "/classis.git/static/media/optimism-ethereum-op-logo.9ddb4d93cef9df3f0ed4.png",
-    "static/media/classicLogo.png": "/classis.git/static/media/classicLogo.a142785c192d7ea5c740.png",
-    "index.html": "/classis.git/index.html",
-    "main.b9ed3a09.css.map": "/classis.git/static/css/main.b9ed3a09.css.map",
-    "main.2ca7a64d.js.map": "/classis.git/static/js/main.2ca7a64d.js.map"
+    "main.css": "/classis/static/css/main.b9ed3a09.css",
+    "main.js": "/classis/static/js/main.780e3949.js",
+    "static/media/ethereum-eth-logo.png": "/classis/static/media/ethereum-eth-logo.a85b6de0dc4a013ae2f8.png",
+    "static/media/optimism-ethereum-op-logo.png": "/classis/static/media/optimism-ethereum-op-logo.9ddb4d93cef9df3f0ed4.png",
+    "static/media/classicLogo.png": "/classis/static/media/classicLogo.a142785c192d7ea5c740.png",
+    "index.html": "/classis/index.html",
+    "main.b9ed3a09.css.map": "/classis/static/css/main.b9ed3a09.css.map",
+    "main.780e3949.js.map": "/classis/static/js/main.780e3949.js.map"
   },
   "entrypoints": [
     "static/css/main.b9ed3a09.css",
-    "static/js/main.2ca7a64d.js"
+    "static/js/main.780e3949.js"
   ]
 }
