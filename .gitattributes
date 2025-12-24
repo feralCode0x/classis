@@ -1,4 +1,2 @@
-
-*.sol linguist-detectable=true
 *.js linguist-detectable=true
-*.html linguist-detectable=false
+
