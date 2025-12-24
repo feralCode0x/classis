@@ -1,9 +1,6 @@
 # Deployed project
 
-https://classisfoto.com 
-
-
-https://app.classisfoto.com
+https://feralcode0x.github.io/classis
 
 # Verified Contract address
 
